@@ -1,0 +1,6 @@
+.memory/
+*.log
+evolution_history.md
+evolution_history_full.md
+evolution_human_summary.md
+evolution_detailed_report.md
